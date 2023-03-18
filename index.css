@@ -1,0 +1,28 @@
+.user {
+  background-color: steelblue;
+  color: white;
+  border: 1px solid blueviolet;
+  margin-bottom: 0.8em;
+  padding: 0.5em 0.8em;
+}
+
+.user_buttoms {
+  margin-top: 1em;
+  display: flex;
+}
+
+.buttom_edit {
+  color: white;
+  text-decoration: none;
+  background-color: seagreen;
+  padding: 0.5em 1em;
+  margin-right: 1em;
+}
+
+.buttom_remove {
+  color: white;
+  text-decoration: none;
+  background-color: red;
+  padding: 0.5em 1em;
+  margin-right: 1em;
+}
